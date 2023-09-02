@@ -48,6 +48,10 @@ import {
       title: "Work",
     },
     {
+      id: "projects",
+      title: "Projects",
+    },
+    {
       id: "contact",
       title: "Contact",
     },
@@ -206,15 +210,39 @@ import {
       tags: [
         {
           name: "react",
-          color: "blue-text-gradient",
+          color: "yellow-text-gradient",
         },
         {
           name: "next.js",
-          color: "green-text-gradient",
+          color: "yellow-text-gradient",
+        },
+        {
+          name: "typescript",
+          color: "yellow-text-gradient",
         },
         {
           name: "tailwind",
-          color: "pink-text-gradient",
+          color: "yellow-text-gradient",
+        },
+        {
+          name: "prisma",
+          color: "yellow-text-gradient",
+        },
+        {
+          name: "mySQL",
+          color: "yellow-text-gradient",
+        },
+        {
+          name: "planetscale",
+          color: "black-text-gradient",
+        },
+        {
+          name: "zustand",
+          color: "yellow-text-gradient",
+        },
+        {
+          name: "easycron",
+          color: "yellow-text-gradient",
         },
       ],
       image: localenergy,
@@ -228,15 +256,23 @@ import {
       tags: [
         {
           name: "react",
-          color: "blue-text-gradient",
+          color: "yellow-text-gradient",
         },
         {
           name: "next.js",
-          color: "green-text-gradient",
+          color: "yellow-text-gradient",
         },
         {
           name: "typescript",
-          color: "pink-text-gradient",
+          color: "yellow-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "yellow-text-gradient",
+        },
+        {
+          name: "stripeAPI",
+          color: "yellow-text-gradient",
         },
       ],
       image: store,
@@ -250,11 +286,11 @@ import {
       tags: [
         {
           name: "react",
-          color: "blue-text-gradient",
+          color: "yellow-text-gradient",
         },
         {
           name: "next.js",
-          color: "green-text-gradient",
+          color: "yellow-text-gradient",
         },
         {
           name: "javascript",
@@ -272,15 +308,23 @@ import {
       tags: [
         {
           name: "django",
-          color: "blue-text-gradient",
+          color: "yellow-text-gradient",
+        },
+        {
+          name: "python",
+          color: "yellow-text-gradient",
         },
         {
           name: "react",
-          color: "green-text-gradient",
+          color: "yellow-text-gradient",
+        },
+        {
+          name: "javascript",
+          color: "yellow-text-gradient",
         },
         {
           name: "mongodb",
-          color: "pink-text-gradient",
+          color: "yellow-text-gradient",
         },
       ],
       image: houseparty,

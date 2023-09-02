@@ -48,8 +48,17 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         I am a full-stack software engineer and machine learning engineer with a background in data engineering and analytics, 
-        experience in Python, JavaScript, and TypeScript, and expertise in frameworks like Django, React, Next.js, Node.js,
-        Three.js, TensorFlow, and PyTorch. I hold a B.S. in Computational Mathematics from UCLA. I learn incredibly fast and 
+        experience in Python, JavaScript, and TypeScript, and expertise in frameworks/technologies like Django, React, Next.js, Node.js,
+        Three.js, TensorFlow, and PyTorch. 
+
+        <br></br>
+        <br></br>
+        
+        I hold a B.S. in Computational Mathematics from UCLA. 
+        
+        <br></br>
+        <br></br>
+        I learn incredibly fast and 
         have a deep passion for building AI/ML products in the clean energy and climate tech space. 
       </motion.p>
 
